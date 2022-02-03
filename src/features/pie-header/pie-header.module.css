@@ -1,0 +1,16 @@
+title {
+  color: blue;
+  background-color: yellow;
+}
+
+header {
+  background-color: grey;
+}
+
+button {
+  border: black;
+  color: blue;
+  width: "25%";
+  height: "auto";
+  padding: "5px";
+}
