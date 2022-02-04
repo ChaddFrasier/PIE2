@@ -7313,6 +7313,11 @@ redent@^3.0.0:
     indent-string "^4.0.0"
     strip-indent "^3.0.0"
 
+redux-feature-generator@^0.0.1:
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/redux-feature-generator/-/redux-feature-generator-0.0.1.tgz#6df53aece3de889623db657606e3a56308a25d5a"
+  integrity sha512-rReSnusdYjpcYnSqU6wsIzL+HiT6TG+t9yMhweRatpsjTFNM2bQyZbbpdaYrJbk24JCv+GFViBfKGDNOCU7qHg==
+
 redux-thunk@^2.4.1:
   version "2.4.1"
   resolved "https://registry.yarnpkg.com/redux-thunk/-/redux-thunk-2.4.1.tgz#0dd8042cf47868f4b29699941de03c9301a75714"
